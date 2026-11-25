@@ -5,7 +5,7 @@ MIN_BREAK_MINS = 60  # 最短空堂：1 小時
 MAX_BREAK_MINS = 300  # 最長空堂：5 小時
 
 # Nominatim 規範要求 User-Agent 能聯絡到你，請改成自己的 GitHub 連結或信箱
-USER_AGENT = "CampusBreakPlanner/1.0 (https://github.com/你的帳號/campus-break-planner)"
+jinwang6415@gmail.com = "CampusBreakPlanner/1.0 (https://github.com/你的帳號/campus-break-planner)"
 
 
 @dataclass
